@@ -13,7 +13,7 @@ Criação de uma página WEB seguindo as instruções do design do figma. Esse p
 <br>
 
 <p align="center">
-  <img alt="Projeto final" src="./imagens/layout.png" width="100%">
+  <img alt="Projeto final" src="./imagens/projeto-final.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
