@@ -33,4 +33,4 @@ O Rocket.sect é um projeto que tem como objetivo ensinar os fundamentos essenci
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Ny9KAJaCdQ1euLyQYTacq7/Explorer-(Copy)?type=design&node-id=16-106&mode=design&t=K7W5FsKMWtzssJLX-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-<img alt="Projeto final" src="./imagens/Layout Figma.png" width="100%">
+<img alt="Layout Figma" src="./imagens/Layout Figma.png" width="100%">
